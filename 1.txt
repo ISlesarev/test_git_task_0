@@ -2,3 +2,5 @@ punkt1
 punkt1 stro4ka2
 punkt7
 punkt7 stro4kaN2
+punkt8
+punkt8 stro4kaNM2
