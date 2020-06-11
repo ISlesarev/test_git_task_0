@@ -4,3 +4,4 @@ punkt7
 punkt7 stro4kaN2
 punkt8
 punkt8 stro4kaNM2
+punkt18 folder2
